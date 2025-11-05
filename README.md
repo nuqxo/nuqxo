@@ -1,16 +1,21 @@
-## Hi there 👋
+### 🪞 hey, i’m **nuqxo**
 
-<!--
-**nuqxo/nuqxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> lua & web dev — crafting clean code and calm aesthetics.
 
-Here are some ideas to get you started:
+💻 currently building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [**nuqxo.dev**](#) – my personal website
+* [**focus.lua**](#) – cli pomodoro for productivity
+* [**weather-aesthetic**](#) – minimal weather app
+* [**to-do-list**](#) – simple task flow with localStorage
+
+🧠 learning:
+`js`, `lua`, `html`, `css`, and `api integration`
+
+📍 based in 🇧🇷, aiming global
+---
+
+#### 💫 tech stack
+
+`html` `css` `javascript` `lua`
+`roblox studio` `ui/ux`
