@@ -24,4 +24,3 @@ learning:
 `roblox studio` `ui/ux`
 
 ---
-crafting code. chasing calm.
