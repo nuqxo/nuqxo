@@ -20,7 +20,7 @@ learning:
 
 #### 💫 tech stack
 
-`html` `css` `javascript` `lua`
-`roblox studio` `ui/ux`
+`html` `css` `javascript`
+`lua` `ui/ux`
 
 ---
