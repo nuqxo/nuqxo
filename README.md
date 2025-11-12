@@ -15,4 +15,3 @@ js • lua • html • css • api integration
 
 💫 tech stack
 html • css • javascript • lua • ui/ux
-```
