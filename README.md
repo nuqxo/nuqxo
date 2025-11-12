@@ -1,20 +1,16 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nuqxo/.github/main/profile/banner.png" width="650">
-</p>
-
 ### 🪞 hey, i’m **nuqxo**
 lua & web dev — crafting clean code and calm aesthetics.
 
 ---
 
 ### 💻 currently building
-- 🌐 **[nuqxo.dev](https://github.com/nuqxo/nuqxo.dev)** – personal website
+- 🌐 **[nuqxo.dev](https://github.com/nuqxo/nuqxo.github.io)** – personal website
 - ⏱️ **[focus.lua](https://github.com/nuqxo/focus.lua)** – cli pomodoro for productivity
 - 🌤️ **[weather-aesthetic](https://github.com/nuqxo/weather-aesthetic)** – minimal weather app
 - 🍅 **[pomodoro-focus](https://github.com/nuqxo/pomodoro-focus)** – clean ui pomodoro web app
 - 💱 **[currency-converter](https://github.com/nuqxo/currency-converter)** – realtime api-based converter
 - ✅ **[to-do-list](https://github.com/nuqxo/to-do-list)** – smooth task flow manager
-- 🌑 **[oblivion](https://github.com/nuqxo/oblivion-dashboard)** – dark minimal dashboard
+- 🌑 **[oblivion](https://github.com/nuqxo/oblivion)** – dark minimal dashboard
 
 ---
 
