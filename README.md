@@ -13,6 +13,8 @@ lua & web dev — crafting clean code and calm aesthetics.
 - 🌑 **[oblivion](https://github.com/nuqxo/oblivion)** – dark minimal dashboard
 - 📜 **[habit-tracker](https://github.com/nuqxo/habit-tracker)** – no distraction habit panel
 - 💸 **[budget-tracker](https://github.com/nuqxo/budget-tracker)** – minimal expense tracker panel
+- 🕒 **[study-tracker](https://github.com/nuqxo/study-tracker)** – minimal study session tracker panel
+
 ---
 
 ### 💫 tech stack
